@@ -3,7 +3,9 @@
 ![R](https://img.shields.io/badge/R-4.5.0-276DC3?logo=r&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-3.44-589632?logo=qgis&logoColor=white)
 ![Status](https://img.shields.io/badge/estado-completado-4CAF50)
-![License](https://img.shields.io/badge/datos-acceso_público-blue)
+![datos](https://img.shields.io/badge/datos-acceso_público-blue)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Hallazgo central:** La correlación negativa entre el Índice de Pobreza Multidimensional y los casos reportados de VIF (rho = −0,555 a −0,645, p < 0,001) no refleja menos violencia real sino **subregistro estructural**: los territorios más pobres tienen menor capacidad institucional para registrar la violencia, no menos violencia.
 
@@ -133,9 +135,33 @@ Análisis de fuentes secundarias de acceso público. Clasificado como **investig
 
 ---
 
+## Licencia
+
+| Componente | Licencia |
+|---|---|
+| Documento, infografías y figuras | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — uso y adaptación libre con atribución |
+| Código R | [MIT License](https://opensource.org/licenses/MIT) — reutilización libre citando la fuente |
+
+Puedes usar, adaptar y redistribuir este trabajo — incluyendo con fines académicos o comerciales — siempre que cites la autoría original.
+
+---
+
+## Cómo citar este trabajo
+
+```
+Sayago Morales, A.Y. (2026). Análisis interseccional de violencia intrafamiliar
+contra mujeres en Colombia 2018-2023: desigualdades de género, condiciones
+socioeconómicas y factores territoriales en el contexto de la pandemia por COVID-19.
+GitHub. https://github.com/tu_usuario/vif-colombia-covid19
+```
+
+> Si usas los scripts o las figuras en tu propio trabajo, por favor incluye esta referencia.
+
+---
+
 ## Autoría
 
-**Ana Yunilda Sayago Morales**  
+**Ana Sayago Morales**  
 Trabajo final · Diplomado en Analítica y Modelamiento en Salud de las Mujeres · PSM-CO  
 Pontificia Universidad Javeriana · Instituto Nacional de Salud · Universidad de Antioquia  
 Colombia, marzo 2026
