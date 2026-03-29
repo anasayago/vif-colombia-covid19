@@ -41,7 +41,23 @@ Los casos descendieron un 13,1% en 2020 (confinamiento) para luego recuperarse h
 
 Se identificaron 9 departamentos con alta pobreza rural y baja VIF rural reportada, clasificados mediante una matriz 2×2 usando las medianas nacionales como puntos de corte.
 
-![Mapa subregistro](outputs/figuras/mapa_subregistro.png)
+![Mapa subregistro](outputs/figuras/mapa_subregistro_VIF_rural.png)
+
+### Análisis cartográfico en QGIS
+
+Mapa de capas múltiples elaborado en QGIS (v3.44, EPSG:3116) que integra
+simultáneamente la clasificación de subregistro probable por departamento,
+la distribución territorial de resguardos indígenas legalmente constituidos
+y la cobertura de IPS por departamento.
+
+![Mapa QGIS](outputs/figuras/mapa_qgis_subregistro_resguardos_ips.png)
+
+Capas utilizadas:
+- Shapefile departamental obtenido mediante `geodata::gadm("COL", level=1)` en R
+- Resguardos indígenas legalmente constituidos (ANT · datos.gov.co)
+- Cobertura IPS agregada por departamento desde REPS (MinSalud)
+
+> Este mapa no se genera desde los scripts R. Requiere QGIS v3.44 o superior.
 
 ### Dos patrones de invisibilización étnica
 
