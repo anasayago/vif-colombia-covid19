@@ -78,7 +78,7 @@ Los datos **no están incluidos** en este repositorio por razones de licencia y 
 
 | Fuente | Variable | URL |
 |---|---|---|
-| SIVIGILA – INS | Casos VIF (evento 875) | https://www.ins.gov.co/sivigila |
+| SIVIGILA – INS | Casos VIF (evento 875) | https://portalsivigila.ins.gov.co |
 | DANE – ECV | Índice de Pobreza Multidimensional departamental | https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional |
 | DANE – GEIH | Tasa de desempleo femenino por departamento | https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/mercado-laboral-por-departamentos |
 | MSPS – REPS | Cobertura IPS por departamento | https://prestadores.minsalud.gov.co/habilitacion/ |
