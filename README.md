@@ -157,9 +157,10 @@ Durante el desarrollo de este proyecto utilicé Claude (Anthropic) como herramie
 
 - Ayuda con sintaxis y debugging de código en R (tidyverse, sf, ggplot2)
 - Revisión y mejora de redacción técnica
-- Feedback sobre visualizaciones cartográficas
+- Feedback sobre visualizaciones cartográficas.
 
-Sin embargo, el análisis de datos, la selección de métodos estadísticos, la interpretación de patrones de violencia intrafamiliar, y las conclusiones académicas son de mi autoria. Cualquiera puede reproducir los resultados ejecutando el código disponible en este repositorio.
+Sin embargo, el análisis de datos, la selección de métodos estadísticos, la interpretación de patrones de violencia intrafamiliar, y las conclusiones académicas son de mi autoría. Cualquiera puede reproducir los resultados ejecutando el código disponible en este repositorio.
+
 ---
 
 ## Licencia
