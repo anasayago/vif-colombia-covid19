@@ -180,7 +180,7 @@ Puedes usar, adaptar y redistribuir este trabajo — incluyendo con fines acadé
 Sayago Morales, A.Y. (2026). Análisis interseccional de violencia intrafamiliar
 contra mujeres en Colombia 2018-2023: desigualdades de género, condiciones
 socioeconómicas y factores territoriales en el contexto de la pandemia por COVID-19.
-GitHub. https://github.com/tu_usuario/vif-colombia-covid19
+GitHub. https://github.com/anasayago/vif-colombia-covid19
 ```
 
 > Si usas los scripts o las figuras en tu propio trabajo, por favor incluye esta referencia.
