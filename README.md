@@ -151,6 +151,17 @@ Análisis de fuentes secundarias de acceso público. Clasificado como **investig
 
 ---
 
+## Declaración sobre uso de Inteligencia Artificial
+
+Durante el desarrollo de este proyecto utilicé Claude (Anthropic) como herramienta de apoyo en tareas específicas:
+
+- Ayuda con sintaxis y debugging de código en R (tidyverse, sf, ggplot2)
+- Revisión y mejora de redacción técnica
+- Feedback sobre visualizaciones cartográficas
+
+Sin embargo, el análisis de datos, la selección de métodos estadísticos, la interpretación de patrones de violencia intrafamiliar, y las conclusiones académicas son de mi autoria. Cualquiera puede reproducir los resultados ejecutando el código disponible en este repositorio.
+---
+
 ## Licencia
 
 | Componente | Licencia |
